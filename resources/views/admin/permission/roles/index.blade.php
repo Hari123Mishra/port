@@ -12,7 +12,7 @@
                 <thead class="thead-light">
                     <tr>
                         <td>Name</td>
-                        <td>Action</td>
+                        <td>Action2</td>
                     </tr>
                 </thead>
                 <tbody>
